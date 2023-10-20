@@ -1,0 +1,49 @@
+header{
+    margin: 25px 0 30px 0;
+}
+main {
+    margin: 0 85px 0 50px;
+}
+h1 {
+    text-align: center;
+    margin: 0 50px 0 0;
+    font-size: 38px;
+    background-color: #C3C2CA;
+}
+.text1{
+    color:grey;
+    font-size: 20px;
+}
+.text2{
+    color: black;
+    font-weight: bold;
+    font-size: 27px;
+}
+li{
+    margin-bottom: 20px;
+}
+h4{
+    color:grey;
+    font-size: 20px;
+    background-color: #C3C2CA;
+    margin: 25px 0 30px 0;
+}
+#img1{
+    height: 175px;
+    width: 175px;
+    position: relative;
+    bottom: 415px;
+    left: 800px;
+}
+#img2{
+    height: 175px;
+    width: 175px;
+    position: relative;
+    left: 800px;
+    bottom: 340px;
+}
+footer{
+    margin: 0 85px 0 50px;
+    position: relative;
+    bottom: 280px;
+}

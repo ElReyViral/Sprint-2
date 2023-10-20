@@ -1,0 +1,9 @@
+Hola! Este es mi trabajo soy Pablo Ramos.
+
+Traté de aplicar gran parte de todo lo aprendido, en la página hay ciertos detalles como por ej la viñeta de la lista ordenada quedó en gris cuando quería que esté negra.
+
+Por otro lado está el encabezado h4 estoy tratando de hacer que su background tenga el mismo ancho que el de h1, se me estuvo complicando con eso también debe ser cuestión de márgenes.
+
+Después de eso todo fue quedando bastante bien, espero que le agrade mi proyecto.
+
+Muchas gracias!!!
