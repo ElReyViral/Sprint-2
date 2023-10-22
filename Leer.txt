@@ -1,9 +1,9 @@
 Hola! Este es mi trabajo soy Pablo Ramos.
 
-Traté de aplicar gran parte de todo lo aprendido, en la página hay ciertos detalles como por ej la viñeta de la lista ordenada quedó en gris cuando quería que esté negra.
+Llevo algo de tiempo poder sincronizarme con github para actualizar cada cosa constantemente pero le fui agarrando la mano.
 
-Por otro lado está el encabezado h4 estoy tratando de hacer que su background tenga el mismo ancho que el de h1, se me estuvo complicando con eso también debe ser cuestión de márgenes.
+También coloqué 2 componentes bootstrap como el carrusel y el formulario con tales efectos.
+Se me hace dificil adaptarme al flexbox así que de momento preferí seguir trabajando con position.
+Estoy en deuda con mejorar la parte de responsive, eso me queda pendiente.
 
-Después de eso todo fue quedando bastante bien, espero que le agrade mi proyecto.
-
-Muchas gracias!!!
+Muchas gracias!!!!
